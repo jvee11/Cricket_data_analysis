@@ -76,7 +76,7 @@ This is an end-to-end data analytics project where real cricket match data is sc
 - Export dashboard to Power BI Service for web access
 - Add predictive analysis (e.g., win prediction using ML)
 
-###📊 Dashboard Insights
+📊 Dashboard Insights
 -Player-wise runs, strike rate, boundaries
 -Team performance by season
 -Match winners and toss analysis
